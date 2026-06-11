@@ -10,7 +10,7 @@
     
   <ul>
         <li><a href="https://adriii-2im3.github.io/Tareas-de-compu/1ra_de_Adriana/index.html">Tarea 1: Estructura HTML</a></li>
-        <li><a href="listas%20y%20l%C3%ADneas/index.html">Tarea 2: Listas y líneas</a></li>
+        <li><a href="https://adriii-2im3.github.io/Tareas-de-compu/listas_y_lineas/index.html">Tarea 2: Listas y líneas</a></li>
         <li><a href="/imagenes_multimedia1/index.html">Tarea 3: Imágenes y multimedia</a></li>
         <li><a href="/MyHomework/Hipervinculos/index.html">Tarea 4: Hipervínculos</a></li>
         <li>Tarea 5:</li>
