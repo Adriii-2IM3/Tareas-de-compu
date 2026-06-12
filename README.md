@@ -1,26 +1,42 @@
 <html>
 <head>
-     <title>Mis Tareas - Adri</title>
+    <title>Sitio web usando HTML</title>
 </head>
-<body>
 
-   <h1>Bienvenida a mi Portafolio</h1>
-   
-  <h2>Mis Entregas</h2>
+<body bgcolor="cyan" text="black" link="blue" vlink="purple" alink="red">
+
+ <p align="center">
+        <font size="7" face="Arial"><b>Sitio web usando HTML</b></font>
+ </p>
     
-  <ul>
-        <li><a href="https://adriii-2im3.github.io/Tareas-de-compu/1ra_de_Adriana/index.html">Tarea 1: Estructura HTML</a></li>
-        <li><a href="https://adriii-2im3.github.io/Tareas-de-compu/listas_y_lineas/index.html">Tarea 2: Listas y líneas</a></li>
-        <li><a href="https://adriii-2im3.github.io/Tareas-de-compu/imagenes_y_multimedia/index.html">Tarea 3: Imágenes y multimedia</a></li>
-        <li><a href="/MyHomework/Hipervinculos/index.html">Tarea 4: Hipervínculos</a></li>
-        <li>Tarea 5:</li>
-          <ol>
-            <li><a href="Tablas/index.html">Parte 1: Tablas</a></li>
-            <li><a href="Continentes/index.html">Parte 2: Continentes</a></li>
-          </ol>
-</ul>
+<p align="center">
+        <font size="6" face="Arial"><i>Compu 2</i></font>
+</p>
+    
+  <p align="center">
+        <font size="5" face="Arial"><u>Páginas web</u></font>
+ </p>
 
-  <p>Hecho por: Adriana Saldivar</p>
+ <br>
+
+ <p align="center">
+        <img src="imagen.jpg" width="300" height="200" alt="Representacion del sitio">
+    </p>
+
+  <br>
+
+  <p align="center">
+        <font size="4" face="Courier New">
+            <b>Nombre del maestro:</b><br>
+            Naxhiely Wendoline Sandoval Trasviña
+            <br><br>
+            <b>Nombre del alumno:</b><br>
+            Adriana Saldívar Reyes
+            <br><br>
+            <b>Grupo:</b><br>
+            <big>2IM3</big>
+        </font>
+    </p>
 
 </body>
 </html>
