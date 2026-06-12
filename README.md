@@ -41,7 +41,7 @@
 <!-- INICIO DE LA SECCIÓN DE MIS ENTREGAS -->
 <table width="100%" border="0">
         <tr>
-            <td width="30%" bgcolor="#FF8A8A" valign="top">
+            <td width="30%" valign="top">
                 <h2>Mis Entregas</h2>
 
  <font face="Arial" size="4">
