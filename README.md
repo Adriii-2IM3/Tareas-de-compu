@@ -20,10 +20,6 @@
  </p>
   
   <br>
-  
- <p align="center">
-      <img src="/img/imagen.jpg" width="300" height="200" alt="Representacion del sitio">
- </p>
  
    <br>
 
