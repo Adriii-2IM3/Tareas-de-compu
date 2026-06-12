@@ -35,16 +35,16 @@
             <big>2IM3</big>
         </font>
 </p>
+
+
     
 <!-- INICIO DE LA SECCIÓN DE MIS ENTREGAS -->
-<hr>
-<center>
-<font face="Arial" size="5" color="blue">
-        <h2>Mis Entregas</h2>
-</font>
+<table width="100%" border="0">
+        <tr>
+            <td width="30%" bgcolor="#FF8A8A" valign="top">
+                <h2>Mis Entregas</h2>
 
  <font face="Arial" size="4">
-    <a href="https://adriii-2im3.github.io/Tareas-de-compu/presentacion/index.html">Presentación de mi página</a><br><br>
      <ol>
         <li><a href="https://adriii-2im3.github.io/Tareas-de-compu/1ra_de_Adriana/index.html">Tarea 1: Estructura básica y texto</a><br><br></li>
         <li><a href="https://adriii-2im3.github.io/Tareas-de-compu/listas_y_lineas/index.html">Tarea 2: Listas y líneas</a><br><br></li>
@@ -60,6 +60,15 @@
     </font>
 </center>
 <!-- FIN DE LA SECCIÓN DE MIS ENTREGAS -->
+
+<td width="70%" bgcolor="black" align="center">
+                <video width="100%" controls>
+                    <source src="video.mp4" type="video/mp4">
+                    Tu navegador no soporta el formato de video.
+                </video>
+            </td>
+        </tr>
+    </table>
 
 </body>
 </html>
