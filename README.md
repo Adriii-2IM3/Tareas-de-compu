@@ -56,7 +56,7 @@
         <li><a href="pagina de reflexion.html">Parte 2: Continentes</a><br><br></li>
             </ul>
       </ol>
-     <a href="dgs">Reflexión</a><br><br>
+     <a href="https://adriii-2im3.github.io/Tareas-de-compu/reflexion/index.html">Reflexión</a><br><br>
     </font>
 </center>
 <!-- FIN DE LA SECCIÓN DE MIS ENTREGAS -->
