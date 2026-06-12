@@ -44,7 +44,7 @@
 </font>
 
  <font face="Arial" size="4">
-    <a href="video.html">Presentación de mi página</a><br><br>
+    <a href="https://adriii-2im3.github.io/Tareas-de-compu/presentacion/index.html">Presentación de mi página</a><br><br>
      <ol>
         <li><a href="https://adriii-2im3.github.io/Tareas-de-compu/1ra_de_Adriana/index.html">Tarea 1: Estructura básica y texto</a><br><br></li>
         <li><a href="https://adriii-2im3.github.io/Tareas-de-compu/listas_y_lineas/index.html">Tarea 2: Listas y líneas</a><br><br></li>
