@@ -53,7 +53,7 @@
         <li>Tarea 5:</li>
             <ul>
         <li><a href="https://adriii-2im3.github.io/Tareas-de-compu/tablas/index.html">Parte 1: Tablas</a><br><br></li>
-        <li><a href="pagina de reflexion.html">Parte 2: Continentes</a><br><br></li>
+        <li><a href="https://adriii-2im3.github.io/Tareas-de-compu/continentes/index.html">Parte 2: Continentes</a><br><br></li>
             </ul>
       </ol>
      <a href="https://adriii-2im3.github.io/Tareas-de-compu/reflexion/index.html">Reflexión</a><br><br>
